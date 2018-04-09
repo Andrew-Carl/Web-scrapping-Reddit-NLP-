@@ -1,5 +1,7 @@
 # Web-scrapping-Reddit-NLP-
 
+![reddit-user-data-analytic-tools](https://user-images.githubusercontent.com/35437820/38502317-0c9004f2-3bdd-11e8-9560-bab0e94b4cc0.jpg)
+
 # Scenario
 You're fresh out of your Data Science bootcamp and looking to break through in the world of freelance data journalism. Nate Silver and co. at FiveThirtyEight have agreed to hear your pitch for a story in two weeks!
 
