@@ -5,7 +5,7 @@ You're fresh out of your Data Science bootcamp and looking to break through in t
 
 Your piece is going to be on how to create a Reddit post that will get the most engagement from Reddit users. Because this is FiveThirtyEight, you're going to have to get data and analyze it in order to make a compelling narrative.
 
-Project Summary
+# Project Summary
 In this project, I practiced two major skills. Collecting data by scraping a website and then building a binary predictor.
 
 There are two components to starting a data science problem: the problem statement, and acquiring the data.
