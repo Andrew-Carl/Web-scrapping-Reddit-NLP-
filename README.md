@@ -14,8 +14,8 @@ For this article, the problem statement will be: What characteristics of a post 
 
 Methods for acquiring the data will be scraping the 'hot' threads as listed on the Reddit homepage. I will be looking into these features below:
 
-The title of the thread
-The subreddit that the thread corresponds to
-The length of time it has been up on Reddit
-The number of comments on the thread
+The title of the thread,
+The subreddit that the thread corresponds to,
+The length of time it has been up on Reddit,
+The number of comments on the thread.
 Once the data is aquired, I will build a classification model that, using Natural Language Processing and any other relevant features, predicts whether or not a given Reddit post will have above or below the median number of comments.
