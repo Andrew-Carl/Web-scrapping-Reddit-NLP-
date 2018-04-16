@@ -1,4 +1,4 @@
-# Web-scrapping-Reddit-NLP-
+# Web scrapping Reddit- Natural Language Processing 
 
 ![reddit-user-data-analytic-tools](https://user-images.githubusercontent.com/35437820/38502317-0c9004f2-3bdd-11e8-9560-bab0e94b4cc0.jpg)
 
